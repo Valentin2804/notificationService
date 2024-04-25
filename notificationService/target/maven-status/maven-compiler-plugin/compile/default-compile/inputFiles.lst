@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\services\BoughtService.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\NotificationServiceApplication.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\services\EmailService.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\repositories\SoldRepository.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\controllers\TransactionsReport.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\services\impl\SoldServiceImpl.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\services\SoldService.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\config\KafkaTopicConfig.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\config\MailSenderConfig.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\config\KafkaConsumerConfig.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\repositories\BoughtRepository.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\services\impl\ReceivedJson.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\entities\Sold.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\services\impl\BoughtServiceImpl.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\entities\Bought.java
+C:\Users\Lenovo\Documents\webdev\notifivationService\notificationService\src\main\java\com\example\notificationservice\services\impl\EmailServiceImpl.java

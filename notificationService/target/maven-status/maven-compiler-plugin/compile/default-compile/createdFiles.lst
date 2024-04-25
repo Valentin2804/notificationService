@@ -1,0 +1,16 @@
+com\example\notificationservice\services\impl\ReceivedJson.class
+com\example\notificationservice\config\KafkaConsumerConfig.class
+com\example\notificationservice\config\KafkaTopicConfig.class
+com\example\notificationservice\services\EmailService.class
+com\example\notificationservice\repositories\SoldRepository.class
+com\example\notificationservice\config\MailSenderConfig.class
+com\example\notificationservice\NotificationServiceApplication.class
+com\example\notificationservice\services\BoughtService.class
+com\example\notificationservice\entities\Sold.class
+com\example\notificationservice\services\impl\BoughtServiceImpl.class
+com\example\notificationservice\services\impl\EmailServiceImpl.class
+com\example\notificationservice\services\impl\SoldServiceImpl.class
+com\example\notificationservice\repositories\BoughtRepository.class
+com\example\notificationservice\controllers\TransactionsReport.class
+com\example\notificationservice\services\SoldService.class
+com\example\notificationservice\entities\Bought.class
